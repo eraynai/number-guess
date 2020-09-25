@@ -12,13 +12,25 @@ body {
 
 .container-flex {
     display: flex;
+}
+
+.title-center{
     justify-content: center;
 }
 
 .container-header {
     color:brown;
     background: cornflowerblue;
-    padding: 2em;
+    padding: 1em;
     margin: 1em;
-    border-radius: 10px;
+    border-radius: 20px;
+    font-size: 1.2rem;
 }
+
+.container-form {
+    padding: 2em;
+    text-align: center;
+}
+
+
+
